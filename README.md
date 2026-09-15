@@ -1,4 +1,15 @@
-## Hi there 👋
+### ESP
+## Hola, soy Joel o Personita aquí online.👋
+
+Soy un desarrollador junior full stack.
+
+
+
+### ENG
+## Hi, I’m Joel, or ‘Personita’ online.
+
+I'm a fullstack junior developer.
+
 
 <!--
 **Personita123/Personita123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
