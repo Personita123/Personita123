@@ -3,7 +3,7 @@
 
 Soy un desarrollador junior full stack.
 
-
+===========================================================================================================
 
 ### ENG
 ## Hi, I’m Joel, or ‘Personita’ online.
